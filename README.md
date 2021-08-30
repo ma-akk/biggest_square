@@ -1,7 +1,7 @@
 # biggest_square
 study_project (piscine)
 
-It is a teams project, and it was done with my school teammate ()
+It is a teams project, and it was done with my school teammate (https://github.com/Kamil-ayd)
 
 This program finds the biggest square from basic elements on the map \
 The program takes as a first argument a file with a map. The program without arguments will read the map from stdin \
